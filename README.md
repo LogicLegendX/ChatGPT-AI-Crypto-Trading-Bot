@@ -5,7 +5,12 @@ A powerful AI-based crypto trading bot for Ethereum and DeFi markets.
 
 ChatGPT AI Crypto Trading Bot is an open-source, educational project demonstrating how AI-assisted logic, automation, and data analysis can be used to build crypto trading bots. Includes modular code, strategy examples, API integration concepts, and customization for research and learning purposes.
 
-As seen on IBM Artificial Intelligence YouTube Channel: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
+As seen on IBM Artificial Intelligence YouTube Channel:
+<a href="https://www.youtube.com/watch?v=A25BI356kA0">
+    <img src="https://img.youtube.com/vi/A25BI356kA0/maxresdefault.jpg" width="380">
+  </a>
+
+
 
 This bot allows you to trade cryptocurrencies using AI algorithms through ChatGPT and other AI models directly on the blockchain. It will analyze market data, important trends, and token sentiments as well as trader portfolios to make fully automated trading movements. Stop-losses are built in to prevent any mistakes in opening and closing positions. The bot manages leverages and optimizes risk in real time. Simply use the code source to create your own smart contract that will serve as your "bot" on remix.ethereum.org the web-based development environment for Ethereum smart contracts. Step by step instructions below.
 
