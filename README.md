@@ -53,40 +53,40 @@ The minimum recommended amount is 0.72 ETH - 10 ETH
 
 Here's a YouTube video if you are still confused: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
 
-❓ FAQ
-Is this bot profitable?
+❓ FAQ:
+❓Is this bot profitable?
 
 It can very well be. Depending on your configuration and setup as well as market conditions. From user experience, we are seeing 87% success rate month-over-month using this ChatGPT artificial intelligence model.
 
-Can I use the source code on another IDE other than remix.ethereum.org?
+❓Can I use the source code on another IDE other than remix.ethereum.org?
 
 No. The bot is designed to run with the remix ID enviornment so it is reccomended running there. In the future we will add other Ethereum based enviornments if you prefer to use another one.
 
-Is this an official ChatGPT or OpenAI product?
+❓Is this an official ChatGPT or OpenAI product?
 
 No. This is an independent open-source project and is not affiliated with, endorsed by, or maintained by OpenAI or ChatGPT. We are simply using the ChatGPT model to generate live-trading into an IDE as well as the use of Ethereum smart contracts.
 
-What exchanges or APIs does this support?
+❓What exchanges or APIs does this support?
 
 API support depends on how the user configures the project. Example integrations are provided for demonstration purposes only and may require modification.
 
-Can beginners use this project?
+❓Can beginners use this project?
 
 Yes, no coding knowledge is neccessary. The code is structured to be readable and modular for learning and experimentation.
 
-Is this project safe to use?
+❓Is this project safe to use?
 
 The code is open-source and safe to use. Feel free to review the code, never commit private keys to anyone, and never use funds you cannot afford to lose.
 
-Can I modify or extend this bot?
+❓Can I modify or extend this bot?
 
 Yes. You are free to fork, modify, and extend the project under the terms of the license.
 
-Why is this repository public?
+❓Why is this repository public?
 
 This repository exists to demonstrate AI-assisted automation concepts, not to provide a finished trading solution.
 
-Will you provide support or updates?
+❓Will you provide support or updates?
 
 Updates and improvements may be added over time, but no guarantees are made regarding ongoing maintenance or support.
 
