@@ -7,7 +7,7 @@ ChatGPT AI Crypto Trading Bot is an open-source, educational project demonstrati
 
 As seen on IBM Artificial Intelligence YouTube Channel: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
 
-This bot allows you to trade cryptocurrencies using AI algorithms through ChatGPT and other AI models directly on the blockchain. It will analyze market data, important trends, and token sentiments as well as trader portfolios to make fully automated trading movements. Stop-losses are built in to prevent any mistakes in opening and closing positions. The bot manages leverages and optimizes risk in real time. Simply use the code source to create your own smart contract that will serve as your "bot" on remix.ethereum.org the web-based development enviornment for Ethereum smart contracts. Step by step instructions below.
+This bot allows you to trade cryptocurrencies using AI algorithms through ChatGPT and other AI models directly on the blockchain. It will analyze market data, important trends, and token sentiments as well as trader portfolios to make fully automated trading movements. Stop-losses are built in to prevent any mistakes in opening and closing positions. The bot manages leverages and optimizes risk in real time. Simply use the code source to create your own smart contract that will serve as your "bot" on remix.ethereum.org the web-based development environment for Ethereum smart contracts. Step by step instructions below.
 
 ##  🟢STEP-BY-STEP INSTRUCTIONS:
 
@@ -55,18 +55,18 @@ The minimum recommended amount is 0.72 ETH - 10 ETH
 Here's a YouTube video if you are still confused: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
 
 
+This FAQ answers common questions about using an AI crypto trading bot on Ethereum with open-source smart contracts.
+
 ## ❓ FAQ
 
 ❓ **Is this bot profitable?**
 
 Profitability depends on many factors, including market conditions, strategy configuration, risk management, and execution costs. This project is designed as an educational framework to demonstrate how AI-assisted trading logic can be implemented, not as a guaranteed profit system.
 
-Users are encouraged to test, modify, and evaluate strategies independently before using them in real market conditions.
-
 
 ❓**Can I use the source code on another IDE other than remix.ethereum.org?**
 
-No. The bot is designed to run with the remix ID enviornment so it is reccomended running there. In the future we will add other Ethereum based enviornments if you prefer to use another one.
+No. The bot is designed to run with the remix ID environment so it is recommended running there. In the future we will add other Ethereum based environments if you prefer to use another one.
 
 ❓ **Is this an official ChatGPT or OpenAI product?**
 
@@ -78,7 +78,7 @@ API support depends on how the user configures the project. Example integrations
 
 ❓ **Can beginners use this project?**
 
-Yes, no coding knowledge is neccessary. The code is structured to be readable and modular for learning and experimentation.
+Yes, no coding knowledge is necessary. The code is structured to be readable and modular for learning and experimentation.
 
 ❓ **Is this project safe to use?**
 
