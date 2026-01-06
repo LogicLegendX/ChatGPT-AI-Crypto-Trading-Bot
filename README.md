@@ -10,13 +10,22 @@ STEP-BY-STEP INSTRUCTIONS:
 
 🟢 Step 2: Code Compiler : [https://pastebin.com/QBMBhae3](url)
 
+<img width="793" height="475" alt="image" src="https://github.com/user-attachments/assets/386a60b6-98b9-45a7-9d9b-734a29fa7883" />
+
+
 🔗 Click here to access Remix : [https://remix.ethereum.org/](url)
 
 🟢 Step 3: Create a New File on Remix
 
 Press the new file button and name it however you'd like ( bot.sol). Make sure the file ends with .sol for Ethereum code.
 
+<img width="793" height="475" alt="image" src="https://github.com/user-attachments/assets/a92b7891-6601-4f9c-a3a0-5c944c2d0c87" />
+
+
 🟢 Step 4: Paste This Code Into Your New File on Remix
+
+<img width="793" height="475" alt="image" src="https://github.com/user-attachments/assets/5c45caf1-17fa-49d4-aad6-2ac8bbd573a1" />
+
 
 🔗 Open Source Bot Code : [https://pastebin.com/QBMBhae3](url)
 
