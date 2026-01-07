@@ -8,7 +8,7 @@ ChatGPT AI Crypto Trading Bot is an open-source, educational project demonstrati
 <p align="center">As seen on IBM Artificial Intelligence YouTube Channel:</p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=lIu8iBul4XE&t=6s">
-    <img src="https://img.youtube.com/vi/A25BI356kA0/maxresdefault.jpg" width="380">
+    <img src="https://img.youtube.com/vi/lIu8iBul4XE/maxresdefault.jpg" width="380">
   </a>
 </p>
 
