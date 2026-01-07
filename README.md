@@ -7,7 +7,7 @@ ChatGPT AI Crypto Trading Bot is an open-source, educational project demonstrati
 
 <p align="center">As seen on IBM Artificial Intelligence YouTube Channel:</p>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=A25BI356kA0">
+  <a href="https://www.youtube.com/watch?v=lIu8iBul4XE&t=6s">
     <img src="https://img.youtube.com/vi/A25BI356kA0/maxresdefault.jpg" width="380">
   </a>
 </p>
@@ -60,7 +60,7 @@ The minimum recommended amount is 0.72 ETH - 10 ETH
 
 (Make sure you have enough ETH in your main wallet (not in your contract address) to pay the gas fee for pressing the Start button.)
 
-Here's a YouTube video if you are still confused: https://www.youtube.com/watch?v=A25BI356kA0&t=37s
+Here's a YouTube video if you are still confused: https://www.youtube.com/watch?v=lIu8iBul4XE&t=6s
 
 
 This FAQ answers common questions about using an AI crypto trading bot on Ethereum with open-source smart contracts.
