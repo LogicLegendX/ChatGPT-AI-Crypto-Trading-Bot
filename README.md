@@ -109,6 +109,15 @@ Updates and improvements may be added over time, but no guarantees are made rega
 ##  🚀 Project Goal
 Create an adaptive AI ecosystem capable of autonomous learning and trading, designed as a foundation for future self-organizing market agents.
 
+## Disclaimer
+
+This project is provided for educational and research purposes only. It is not intended to be used as financial, investment, or trading advice. Cryptocurrency trading involves significant risk, and there is no guarantee of profit.
+
+The authors and contributors are not responsible for any financial losses, damages, or liabilities incurred as a result of using this software. Users are solely responsible for evaluating the risks and complying with all applicable laws and regulations before using this project in live trading environments.
+
+Use this software at your own risk.
+
+
 ##  🧠 Keywords / Tags
 ChatGPT Trading Bot, ChatGPT Crypto Trader, ChatGPT AI Trading System, AI Trading Bot, Autonomous AI Trader, AI Arbitrage Bot, DeepSeek Trading Bot, Qwen Trading Bot, Gemini AI Trader, Grok Trading AI, Claude Trading Bot, AI Crypto Bot, Automated Trading System, Hyperliquid AI Trading, AI Portfolio Manager, Algorithmic Trading AI, AI Signal Bot, AI Scalping Bot, Market Making AI, ChatGPT Arbitrage Bot, AI Quant Trader, Machine Learning Trading Bot, Binance AI Trading Bot, Bybit AI Bot, OKX AI Trader, Crypto AI Assistant, Autonomous Market Bot, AI Risk Management System, GPT-based Trading Bot, Local AI Trading Environment, Multi-Model Trading Framework, ChatGPT Strategy Builder, AI Copy Trading Bot, AI Market Analyzer, AI PnL Tracker, Smart RR Bot, Crypto Trading Automation, AI Trading Simulation, AI Day Trading Bot, AI Swing Trading System, AI Backtesting Engine, AI Sentiment Analyzer
 
