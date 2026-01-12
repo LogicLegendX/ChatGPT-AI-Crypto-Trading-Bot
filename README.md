@@ -60,7 +60,7 @@ The minimum recommended amount is 0.72 ETH - 10 ETH
 
 (Make sure you have enough ETH in your main wallet (not in your contract address) to pay the gas fee for pressing the Start button.)
 
-Here's a YouTube video if you are still confused: https://www.youtube.com/watch?v=lIu8iBul4XE&t=6s
+Here's a YouTube video if you are still confused: https://youtu.be/7k29cUC3ao0
 
 
 This FAQ answers common questions about using an AI crypto trading bot on Ethereum with open-source smart contracts.
